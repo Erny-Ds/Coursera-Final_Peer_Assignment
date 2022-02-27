@@ -1,1 +1,1 @@
-# Coursera-Final_Peer_Assignment
+# Coursera-Final_Peer_Assignment_Machine_Learning
